@@ -1,8 +1,8 @@
 # Persentase Penduduk Perkotaan
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indo-r/001_kamidata-Persentase-Penduduk-Perkotaan/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indo-r/001_kamisdata-Persentase-Penduduk-Perkotaan/master?urlpath=rstudio)
 
-Pada KamiData pekan ini, Anda diminta untuk melakukan eksplorasi data Persentase Penduduk Perkotaan yang tersedia dalam [Portal Satu Data Indonesia](https://data.go.id/dataset/bps_api_160160/resource/ae95c6a6-f607-4ddf-922e-c74d235b182b)
+Pada Kamis Data pekan ini, Anda diminta untuk melakukan eksplorasi data Persentase Penduduk Perkotaan yang tersedia dalam [Portal Satu Data Indonesia](https://data.go.id/dataset/bps_api_160160/resource/ae95c6a6-f607-4ddf-922e-c74d235b182b)
 
 ## Aturan main
 
@@ -14,4 +14,4 @@ Pada KamiData pekan ini, Anda diminta untuk melakukan eksplorasi data Persentase
 5. Selamat mencoba!
 
 ## Menggunakan Binder
-Anda dapat klik pada tautan [ini](https://mybinder.org/v2/gh/indo-r/001_kamidata-Persentase-Penduduk-Perkotaan/master?urlpath=rstudio) untuk menjalankan binder!
+Anda dapat klik pada tautan [ini](https://mybinder.org/v2/gh/indo-r/001_kamisdata-Persentase-Penduduk-Perkotaan/master?urlpath=rstudio) untuk menjalankan binder!
