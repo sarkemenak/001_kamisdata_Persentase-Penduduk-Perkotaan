@@ -1,5 +1,7 @@
 # Persentase Penduduk Perkotaan
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indo-r/001_kamidata-Persentase-Penduduk-Perkotaan/master)
+
 Pada KamiData pekan ini, Anda diminta untuk melakukan eksplorasi data Persentase Penduduk Perkotaan yang tersedia dalam [Portal Satu Data Indonesia](https://data.go.id/dataset/bps_api_160160/resource/ae95c6a6-f607-4ddf-922e-c74d235b182b)
 
 ## Aturan main
@@ -10,3 +12,6 @@ Pada KamiData pekan ini, Anda diminta untuk melakukan eksplorasi data Persentase
 4. Silakan lakukan eksplorasi dan analisis data dengan menggunakan  dokumen Rmarkdown dan simpan dengan format 'nama_analis-judul.Rmd*' di dalam folder 'vignettes'
 4. Pada hari rabu pekan berikutnya, silakan mengajukan *Pull request* atas hasil kerja Anda
 5. Selamat mencoba!
+
+## Menggunakan mybinder
+Anda dapat klik pada tautan [ini](https://mybinder.org/v2/gh/indo-r/001_kamidata-Persentase-Penduduk-Perkotaan/master) untuk menjalankan mybinder!
